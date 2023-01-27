@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arild2g
+- 👋 Hi, I’m @arildgrimstveit
 - 👀 I’m interested in clean code, effective algorithms and everything video games
 - 🌱 I’m currently learning React, 
 - 💞️ I’m looking to collaborate on cool stuff
